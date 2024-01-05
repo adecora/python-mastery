@@ -1,3 +1,5 @@
+# stock.py
+    
 class Stock:
     def __init__(self, name, shares, price):
         self.name = name
