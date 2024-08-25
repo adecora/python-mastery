@@ -1,0 +1,7 @@
+{
+    "editor.stickyScroll.enabled": false,
+    "github.copilot.editor.enableCodeActions": false,
+    "github.copilot.renameSuggestions.triggerAutomatically": false,
+    "github.copilot.editor.enableAutoCompletions": false,
+    "github.copilot.chat.useProjectTemplates": false
+}
